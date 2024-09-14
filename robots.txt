@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://athineama.github.io/sitemap.html.gz
+Sitemap: https://athineama.github.io/app/sitemap.html.gz
+Sitemap: https://athineama.github.io/assets/sitemap.html.gz
+Sitemap: https://athineama.github.io/css/sitemap.html.gz
+Sitemap: https://athineama.github.io/includes/sitemap.html.gz
+Sitemap: https://athineama.github.io/item/sitemap.html.gz
+Sitemap: https://athineama.github.io/src/sitemap.html.gz
